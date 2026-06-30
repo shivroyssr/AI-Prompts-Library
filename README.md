@@ -1,2 +1,6 @@
 # AI-Prompts-Library
-ChatGPT, Claude, Gemini Writing Prompts Research Prompts
+ChatGPT Research Prompts
+Claude Writing Prompts
+Gemini Learning Prompts
+LinkedIn Writing Prompts
+Writing Prompts Research Prompts
