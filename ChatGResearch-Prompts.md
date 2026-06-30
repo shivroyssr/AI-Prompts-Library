@@ -1,4 +1,5 @@
 ChatGPT Research Prompts
+
 Purpose: This collection contains prompts for conducting structured research, summarizing information, comparing options, and generating actionable insights.
 
 Prompt 1 – Topic Research
