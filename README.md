@@ -24,7 +24,7 @@ This repository is suitable for:
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
 AI-Prompts-Library/
@@ -46,9 +46,9 @@ AI-Prompts-Library/
 
 ---
 
-# 📚 Prompt Categories
+## 📚 Prompt Categories
 
-## 🔍 ChatGPT Research Prompts
+### 🔍 ChatGPT Research Prompts
 
 Research prompts for:
 
@@ -61,7 +61,7 @@ Research prompts for:
 
 ---
 
-## ✍️ Claude Writing Prompts
+### ✍️ Claude Writing Prompts
 
 Professional writing prompts for:
 
@@ -74,7 +74,7 @@ Professional writing prompts for:
 
 ---
 
-## 🎓 Gemini Learning Prompts
+### 🎓 Gemini Learning Prompts
 
 Learning prompts for:
 
@@ -87,7 +87,7 @@ Learning prompts for:
 
 ---
 
-## 💼 LinkedIn Writing Prompts
+### 💼 LinkedIn Writing Prompts
 
 Professional prompts for:
 
@@ -100,7 +100,7 @@ Professional prompts for:
 
 ---
 
-# 🎯 Features
+## 🎯 Features
 
 - Beginner-friendly prompts
 - Professional writing templates
@@ -112,7 +112,7 @@ Professional prompts for:
 
 ---
 
-# 👥 Target Audience
+## 👥 Target Audience
 
 - AI Prompt Engineers
 - AI Trainers
