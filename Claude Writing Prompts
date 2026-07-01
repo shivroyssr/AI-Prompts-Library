@@ -1,0 +1,169 @@
+# Claude Writing Prompts
+
+> A curated collection of professional writing prompts designed for Claude AI.
+
+![Markdown](https://img.shields.io/badge/Format-Markdown-blue)
+![AI](https://img.shields.io/badge/AI-Claude-orange)
+![Category](https://img.shields.io/badge/Category-Writing-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+---
+
+## 📖 Purpose
+
+This repository contains high-quality Claude prompts for professional writing tasks.
+
+These prompts help create:
+
+- 📧 Professional Emails
+- ✍️ Blog Articles
+- 📚 Technical Documentation
+- 💼 Business Content
+- 📄 Reports
+- 🎯 Marketing Copy
+
+---
+
+## 📑 Table of Contents
+
+- Professional Email
+- Blog Article
+- Technical Documentation
+
+---
+
+## 📧 Prompt 1 — Professional Email
+
+### 🎯 Objective
+
+Write a professional business email with a clear structure.
+
+#### Prompt
+
+```text
+Act as an experienced business communication specialist.
+
+Write a professional email.
+
+Purpose:
+[Describe]
+
+Audience:
+[Recipient]
+
+Tone:
+Professional, concise, and polite.
+
+Include:
+
+• Subject suggestion
+• Greeting
+• Clear introduction
+• Main message
+• Call to action
+• Professional closing
+
+Format the email professionally.
+```
+
+#### Example Use Cases
+
+- Job Application
+- Follow-up Email
+- Client Communication
+- Meeting Request
+- Project Update
+
+---
+
+## ✍️ Prompt 2 — Blog Article
+
+### 🎯 Objective
+
+Generate a well-structured blog article.
+
+#### Prompt
+
+```text
+Act as a professional content writer.
+
+Write a detailed blog article.
+
+Topic:
+[Insert Topic]
+
+Target Audience:
+[Audience]
+
+Length:
+1000–1500 words
+
+Writing Style:
+Educational and engaging.
+
+Include:
+
+• Title
+• Introduction
+• Main Sections
+• Practical Examples
+• Key Takeaways
+• Conclusion
+
+Use headings, bullet points, and short paragraphs.
+```
+
+#### Example Topics
+
+- Artificial Intelligence
+- Prompt Engineering
+- Remote Jobs
+- Data Annotation
+- Machine Learning
+
+---
+
+## 📚 Prompt 3 — Technical Documentation
+
+### 🎯 Objective
+
+Create clean and professional documentation.
+
+#### Prompt
+
+```text
+Act as a senior technical writer.
+
+Write technical documentation for:
+
+Project:
+[Project Name]
+
+Audience:
+Developers and end users.
+
+Include:
+
+• Project Overview
+• Features
+• Prerequisites
+• Installation
+• Usage Guide
+• Folder Structure
+• Examples
+• Best Practices
+• Troubleshooting
+• FAQ
+
+Write using Markdown formatting.
+```
+
+### Best For
+
+- GitHub Projects
+- APIs
+- AI Projects
+- Software Documentation
+- Internal Guides
+
+---
